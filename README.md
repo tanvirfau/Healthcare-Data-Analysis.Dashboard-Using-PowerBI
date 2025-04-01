@@ -1,4 +1,4 @@
-# Health Care Analysis
+# Patient Care Analysis Dashboard
 ![patient care analysis](https://github.com/tanvirfau/Healthcare-Data-Analysis.Dashboard-Using-PowerBI/blob/main/patient%20care%20analysis.jpg)
 Welcome to the Healthcare Analysis project repository! This project aims to analyze a healthcare dataset using Power BI to uncover insights and trends in patient demographics and healthcare costs.
 ## Overview
